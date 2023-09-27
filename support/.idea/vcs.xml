@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gke00_kafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gke00_kafka_baremetal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_applications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_configs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_connectors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_deployments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_kafka_custom_restproxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_kafka_springbboot_apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_ksql_streams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_rolebindings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_schemaregistry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_standalone_apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_terraform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_confluent_topics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kfk00_kfk_gke" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/node-port-arch" vcs="Git" />
+  </component>
+</project>

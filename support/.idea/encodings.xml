@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_applications/kafka-client-applications/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_applications/kafka-client-applications/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_applications/kafka-client-applications/target/generated-sources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_schemaregistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_schemaregistry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_standalone_apps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kfk00_confluent_standalone_apps/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
